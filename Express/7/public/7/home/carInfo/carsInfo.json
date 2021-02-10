@@ -1,0 +1,38 @@
+[
+  {
+    "img": "img/car-american-1.jpeg",
+    "title": "Car1",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi vero laboriosamvelit unde, error, itaque fuga corrupti est nemo, officiis eveniet totam",
+    "link": "/car/1"
+  },
+  {
+    "img": "img/car-american-2.jpeg",
+    "title": "Car2",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi vero laboriosamvelit unde, error, itaque fuga corrupti est nemo, officiis eveniet totam",
+    "link": "/car/2"
+  },
+  {
+    "img": "img/car-american-3.jpeg",
+    "title": "Car3",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi vero laboriosamvelit unde, error, itaque fuga corrupti est nemo, officiis eveniet totam",
+    "link": "/car/3"
+  },
+  {
+    "img": "img/car-german-1.jpeg",
+    "title": "Car4",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi vero laboriosamvelit unde, error, itaque fuga corrupti est nemo, officiis eveniet totam",
+    "link": "/car/4"
+  },
+  {
+    "img": "img/car-german-2.jpeg",
+    "title": "Car5",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi vero laboriosamvelit unde, error, itaque fuga corrupti est nemo, officiis eveniet totam",
+    "link": "/car/5"
+  },
+  {
+    "img": "img/car-german-3.jpeg",
+    "title": "Car6",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi vero laboriosamvelit unde, error, itaque fuga corrupti est nemo, officiis eveniet totam",
+    "link": "/car/6"
+  }
+]
